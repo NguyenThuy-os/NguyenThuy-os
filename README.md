@@ -37,7 +37,7 @@ I'm **Nguyen Thi Thuy**, a **3rd-year student (K22 cohort)** in the **Faculty of
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: `22139069@hcmute.edu.vn`
+- 📧 Email: `thuynguyenntt.15@gmail.com`
 - 🐙 GitHub: [NguyenThuy-os](https://github.com/NguyenThuy-os)
 
 ---
