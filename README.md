@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Nguyen Thi Thuy**, a **4rd-year student (K22 cohort)** in the **Faculty of Electrical and Electronics Engineering**, majoring in **Embedded Systems and IoT** at **Ho Chi Minh City University of Technology and Education (HCMUTE)**.
+I'm **Nguyen Thi Thuy**, a **4rd-year student (K22 cohort)** in the **Faculty of Electrical and Electronics Engineering**, majoring in **Embedded Systems and IoT** at **Ho Chi Minh City University of Technology and Engineering (HCMUTE)**.
 
 ---
 
