@@ -15,3 +15,55 @@ My technical interests include:
 ⚙️ Embedded Software Development and Hardware-Software Integration
 
 I enjoy working at the intersection of automotive technology, embedded systems, and artificial intelligence, with the goal of contributing to the development of smarter and safer mobility solutions.
+
+🛠️ Technical Skills
+
+Automotive & ADAS
+
+Automotive Embedded Systems
+Advanced Driver Assistance Systems (ADAS)
+CAN Bus Communication
+Automatic ADAS Calibration
+Driver Behavior Prediction
+
+Programming & Embedded Development
+
+C/C++
+Python
+Embedded C
+ESP32
+PlatformIO
+
+AI & Computer Vision
+
+PyTorch
+Semantic Segmentation
+Computer Vision
+Edge AI
+Image and Signal Processing
+
+Communication & Integration
+
+CAN, UART, I2C, SPI
+Hardware-Software Integration
+Sensor Integration
+
+IoT & Cloud
+
+Blynk
+Firebase
+IoT System Development
+
+🎓 Graduation Thesis
+
+Research and Implementation of an Automatic ADAS Calibration System Integrated with CAN Bus and Driver Behavior Prediction on an Edge AI Platform
+
+A research and development project focused on automotive ADAS technologies, combining automatic calibration, CAN Bus communication, and AI-based driver behavior prediction on an Edge AI platform.
+
+Key Focus Areas:
+
+🚘 Automatic ADAS Calibration
+🔌 CAN Bus Communication and Automotive Integration
+🤖 Edge AI Deployment
+🧠 Driver Behavior Prediction
+⚙️ Automotive Embedded Systems
